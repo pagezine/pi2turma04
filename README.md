@@ -1,4 +1,4 @@
-# pi1turma04
+# pi2turma04
 Computação aplicada ao ensino de matemática.
 
 Título: Ensino de Matemática com a utilização de recursos
